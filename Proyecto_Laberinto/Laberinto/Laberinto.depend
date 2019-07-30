@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1564407460 source:c:\users\mauvie gutierrez\desktop\proyecto\laberinto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+
+1564408766 source:c:\users\mauvie gutierrez\desktop\proyecto\laberinto\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+
+1564408766 c:\users\mauvie gutierrez\desktop\proyecto\laberinto\funciones.h
+
+1564514786 source:c:\users\mauvie gutierrez\pycharmprojects\proyecto_laberinto\laberinto\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+
+1564514766 c:\users\mauvie gutierrez\pycharmprojects\proyecto_laberinto\laberinto\funciones.h
+
+1564514745 source:c:\users\mauvie gutierrez\pycharmprojects\proyecto_laberinto\laberinto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+

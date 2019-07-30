@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1564514766 source:c:\users\mauvie gutierrez\pycharmprojects\proyecto_laberinto\laberinto\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+
+1564514766 c:\users\mauvie gutierrez\pycharmprojects\proyecto_laberinto\laberinto\funciones.h
+
+1564514594 source:c:\users\mauvie gutierrez\pycharmprojects\proyecto_laberinto\minunit_laberinto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+	"minunit.h"
+	"../Laberinto/funciones.h"
+
+1560866595 c:\users\mauvie gutierrez\pycharmprojects\proyecto_laberinto\minunit_laberinto\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
